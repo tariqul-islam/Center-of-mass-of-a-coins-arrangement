@@ -39,3 +39,7 @@ for i=1:s
     %imwrite(z,str,'png');
     pause(0.2);
 end
+
+%Written By
+%Mohammad Tariqul Islam
+%ponir.bd @ hotmail.com
